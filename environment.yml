@@ -1,0 +1,12 @@
+name: grib-reading-demo-dev
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - xarray
+  - matplotlib
+  - dask
+  - python<3.14
+  - pip
+  - pip:
+      - gribberish-spire
