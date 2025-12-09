@@ -9,4 +9,4 @@ dependencies:
   - python<3.14
   - pip
   - pip:
-      - gribberish-spire
+      - gribberish

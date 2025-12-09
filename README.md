@@ -27,4 +27,4 @@ jupyter lab
 
 4. Open the notebook
 
-Go to the Jupyterlab browser and open the `00-installation-basic-usage.ipynb` file
+Go to the Jupyterlab browser and open one of the notebook files.
